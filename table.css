@@ -1,0 +1,8 @@
+.grid
+{
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    border-style: solid;
+    background-color: pink;
+    grid-template-columns: 1fr 1fr 1fr;
+}
